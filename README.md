@@ -6,4 +6,4 @@
 *Ah, General Kenobi!*  
   
 Above you can see real footage of me sitting in front of my Gentoo system, recompiling my kernel for the 17th
-time because i forgot `CONFIG_FB_SIMPLE` again.
+time because i optimized it to the point of it not booting any more. Who needs graphics anyways?
